@@ -4,7 +4,7 @@ This is a responsive and interactive **personal portfolio website** built with H
 
 ## 🌐 Live Demo
 
-🔗 [Visit Portfolio](https://balajibala45.github.io/portfolio/) *(replace with actual link after publishing)*
+🔗 [Visit Portfolio](https://balajibala45.github.io/Portfolio/) 
 
 ---
 
@@ -26,7 +26,6 @@ This is a responsive and interactive **personal portfolio website** built with H
 - Font Awesome (Icons)
 - Google Fonts (Roboto)
 
----
 
 
 
